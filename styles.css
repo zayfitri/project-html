@@ -1,0 +1,11 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(93, 97, 87, 0.879);
+    background-color: bisque;
+}
+
+aside{
+    float: right;
+    width: 40%;
+}
+
